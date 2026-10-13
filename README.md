@@ -13,13 +13,13 @@ Economist specialized in **Data Analytics** and currently pursuing my **Master's
 ---
 
 ### 📈 Featured Projects
-* 📊 <strong><a href="https://github.com" target="_blank">julianasmsilva/retail-pricing-analytics</a></strong> - Automated pricing monitoring pipeline that scaled team performance from 20 to 200 daily articles.
 
+* 📊 **[julianasmsilva/retail-pricing-analytics](https://github.com)** - Análise de vendas e deteção de anomalias de preços em SQL através de um caso prático estruturado de raiz (DDL, DML e queries analíticas).
 
 ---
 
 ### 📬 Connect with me
 
-* 💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/julianasmsilva/)
+* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com/)
 * 📧 **Email:** julianasmsilvaa@gmail.com
 * 📍 *Guimarães, Portugal (Available for Remote / Hybrid in Porto/Braga/Guimarães)*
