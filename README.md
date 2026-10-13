@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Juliana Silva! 👋
 
-<!--
-**julianasmsilva/julianasmsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Economist specialized in **Data Analytics** and currently pursuing my **Master's in Data Science and Business Analysis**. With 2 years of experience at Farfetch handling global scale pricing datasets, I focus on turning complex data structures into strategic business decisions and scalable operations.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+<!-- Ícones visuais das tuas competências principais -->
+![SQL](https://shields.io)
+![Python](https://shields.io)
+![Power BI](https://shields.io)
+![Excel](https://shields.io)
+![Pandas](https://shields.io)
+
+---
+
+### 📈 Featured Projects
+* 📊 [Retail Pricing & Competitiveness Analytics](https://github.com) - Automated pricing monitoring pipeline that scaled team performance from 20 to 200 daily articles.
+
+---
+
+### 📬 Connect with me
+
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:julianasmsilvaa@gmail.com)
+
+*📍 Guimarães, Portugal (Available for Remote / Hybrid Porto)*
