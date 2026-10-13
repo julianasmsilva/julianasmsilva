@@ -6,12 +6,15 @@ Economist specialized in **Data Analytics** and currently pursuing my **Master's
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- Ícones visuais das tuas competências principais -->
-![SQL](https://shields.io)
-![Python](https://shields.io)
-![Power BI](https://shields.io)
-![Excel](https://shields.io)
-![Pandas](https://shields.io)
+<table>
+  <tr>
+    <td><img src="https://shields.io" alt="SQL"></td>
+    <td><img src="https://shields.io" alt="Python"></td>
+    <td><img src="https://shields.io" alt="Power BI"></td>
+    <td><img src="https://shields.io" alt="Excel"></td>
+    <td><img src="https://shields.io" alt="Pandas"></td>
+  </tr>
+</table>
 
 ---
 
@@ -22,7 +25,11 @@ Economist specialized in **Data Analytics** and currently pursuing my **Master's
 
 ### 📬 Connect with me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:julianasmsilvaa@gmail.com)
+<table>
+  <tr>
+    <td><a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a></td>
+    <td><a href="mailto:julianasmsilvaa@gmail.com"><img src="https://shields.io" alt="Email"></a></td>
+  </tr>
+</table>
 
 *📍 Guimarães, Portugal (Available for Remote / Hybrid Porto)*
