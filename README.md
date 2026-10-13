@@ -19,6 +19,6 @@ Economist specialized in **Data Analytics** and currently pursuing my **Master's
 
 ### 📬 Connect with me
 
-* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com/)
+* 💼 **LinkedIn:** [://linkedin.com](https://://www.linkedin.com/in/julianasmsilva/)
 * 📧 **Email:** julianasmsilvaa@gmail.com
 * 📍 *Guimarães, Portugal (Available for Remote / Hybrid Porto)*
