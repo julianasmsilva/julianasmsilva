@@ -6,30 +6,19 @@ Economist specialized in **Data Analytics** and currently pursuing my **Master's
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
-  <tr>
-    <td><img src="https://shields.io" alt="SQL"></td>
-    <td><img src="https://shields.io" alt="Python"></td>
-    <td><img src="https://shields.io" alt="Power BI"></td>
-    <td><img src="https://shields.io" alt="Excel"></td>
-    <td><img src="https://shields.io" alt="Pandas"></td>
-  </tr>
-</table>
+* **Languages:** `SQL (PostgreSQL / MySQL)` | `Python (Pandas, NumPy)` | `R` | `Stata`
+* **Data Visualization:** `Power BI` | `Excel (Advanced)`
+* **Core Competencies:** `Data Analysis` | `Statistical Modeling` | `Data Validation & Quality` | `Reporting`
 
 ---
 
 ### 📈 Featured Projects
-* 📊 [Retail Pricing & Competitiveness Analytics](https://github.com) - Automated pricing monitoring pipeline that scaled team performance from 20 to 200 daily articles.
+* 📊 **[Retail Pricing & Competitiveness Analytics](https://github.com)** - Automated pricing monitoring pipeline that scaled team performance from 20 to 200 daily articles.
 
 ---
 
 ### 📬 Connect with me
 
-<table>
-  <tr>
-    <td><a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a></td>
-    <td><a href="mailto:julianasmsilvaa@gmail.com"><img src="https://shields.io" alt="Email"></a></td>
-  </tr>
-</table>
-
-*📍 Guimarães, Portugal (Available for Remote / Hybrid Porto)*
+* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com/)
+* 📧 **Email:** julianasmsilvaa@gmail.com
+* 📍 *Guimarães, Portugal (Available for Remote / Hybrid Porto)*
