@@ -13,7 +13,8 @@ Economist specialized in **Data Analytics** and currently pursuing my **Master's
 ---
 
 ### 📈 Featured Projects
-* 📊 **[Retail Pricing & Competitiveness Analytics](https://github.com)** - Automated pricing monitoring pipeline that scaled team performance from 20 to 200 daily articles.
+* 📊 <strong><a href="https://github.com" target="_blank">Retail Pricing & Competitiveness Analytics</a></strong> - Automated pricing monitoring pipeline that scaled team performance from 20 to 200 daily articles.
+
 
 ---
 
